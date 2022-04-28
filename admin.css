@@ -1,0 +1,23 @@
+/* button{
+    background-color: green;
+} */
+body{
+    text-align: center;
+}
+#form{
+  width: 25%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 40px;
+}
+#atag{
+    margin-top: 40px;
+}
+input,select{
+    height: 30px;
+    border: 0px;
+    border-color: chartreuse;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
